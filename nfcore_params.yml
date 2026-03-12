@@ -1,0 +1,4 @@
+fasta: "/home/s2451842/GTF/Homo_sapiens.GRCh38.dna.primary_assembly.fa"
+gtf: "/home/s2451842/GTF/Homo_sapiens.GRCh38.112.gtf"
+aligner: "star_salmon"
+skip_biotype_qc: true
